@@ -49,5 +49,3 @@ def first(tab = "")
 	first = tab[0]
 	return first
 end
-s = "say something i'm giving up on you"
-titleize(s)
